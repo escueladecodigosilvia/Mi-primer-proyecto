@@ -1,0 +1,18 @@
+
+
+Diferencias entre repositorio público y privado:
+
+
+Un repositorio puede ser público o privado. Un repositorio público es visible para cualquier persona, mientras que un repositorio privado es visible únicamente para la 
+
+persona (u organización) que lo creó y para los colaboradores que tengan acceso.
+
+Los datos almacenados en un repositorio público, son una manera de comunicar públicamente los trabajos de investigadores, aumentando su difusión. Los autores ponen dis-
+
+ponibles en acceso abieto una versión de los artículos que han publicado en artículos tradicionales, etc.
+
+En un repositorio privado se puede controlar el acceso al código fuente. La mayoria de las grandes empresas extienden el control de acceso en una medida mucho mayor,
+
+por lo general, un desarrollador solo tendria acceso a los proyectos con los que se ocupa, especialmente si algunas de las características constituyen propiedad inte-
+
+lectual y están siendo patentadas, o si se trata de algo que otorga una ventaja competitiva a la empresa.
