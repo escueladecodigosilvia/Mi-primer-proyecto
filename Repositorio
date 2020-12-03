@@ -18,3 +18,33 @@ gado leyes de acceso abierto que promueven la implementación y uso de los repos
 tras que otros países están trabajando en la aprobación de leyes similares, como por ejemplo México.
 
 
+
+Sistemas de repositorios en la nube:
+
+Cuando se trata de elegir un repositorio de código adecuado, hay una gran diversidad de donde elegir. Es por eso que aquí describiremos los 
+tres de los más populares:
+ 
+GitHub:
+GitHub es el sitio web número uno para almacenar repositorios git. El sistema esta diseñado para permitir a los usuarios crear fácilmente 
+sistemas de control de versiones basados en Git. ¿Por que es tan popular? Git admite fusiones y divisiones de versiones uniformes con la 
+ayuda de herramientas de visualización y herramientas para la navegación a través del historial de desarrollo no lineal. Por ahora, GitHub 
+alberga más de 50 millones de proyectos de código abierto.
+
+GitLab:
+El servicio también esta desarrollado en la base del control de versiones de Git. A pesar de que la funcionalidad de GitLab es similar a 
+su principal competidor, GitHub, existen algunas peculiaridades importantes. GitLab tiene versiones diferentes, como GitLab SAAS que es 
+adecuada para las empresas y GitLab Community Edition, una solución individual para los usuarios.
+
+BitBucket:
+El servicio también es muy similar a GitHub y refleja la mayoría de sus características con ligeras diferencias. Bitbucket esta mejor 
+orientado a los equipos de desarrollo profesional, ya que proporciona grandes beneficios para ellos, como repositorios privados gratuitos, 
+integración con Jira, revisión de código avanzado  y CI/CD (Integración Continua/Despliegue continuo) integrado. Al mismo tiempo, con el 
+crecimiento del equipo, Bitbucket ofrece condiciones de precios más adecuadas comparadas con GitHub y GitLab. Bitbucket también proporciona 
+una modelo de implementación flexible para equipos.
+
+
+ 
+ 
+ 
+
+
