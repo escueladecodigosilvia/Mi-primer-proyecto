@@ -1,0 +1,23 @@
+COMANDO ls:
+
+El comando ls lista los archivos y directorios que tenemos en la ubicación 
+actual.
+
+OPCIONES:
+
+-t     Ordena los archivos por fecha de modificación.
+-l     Despliega un listado largo que proporciona más información acerca de
+       los archivos.
+ruta   Lista los archivos y direectorios que tenemos en el directorio que 
+       indique la ruta.
+-a     Muestra los directorios ocultos (se muestran con uno o dos  puntos).
+       Directorio .   Hace referencia al directorio actual.
+       Directorio ..  Hace referencia al directorio padre.
+ls y ls .            Nos despliegan lo mismo (hacen referencia al
+                     directorio actual).
+ls .. y ls /home     Nos despliegan lo mismo (hacen referencia al directorio
+                     padre).
+ls . y ls ..         Permiten  usar las rutas relativas en lugar de las 
+                     absolutas.
+ls ../.. y ls /      Despliegan lo mismo (despliegan directorios que se 
+                     encuentran dentro del directorio raíz).

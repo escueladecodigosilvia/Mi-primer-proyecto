@@ -1,0 +1,10 @@
+COMANDO rm:
+
+Se utiliza para eliminar.
+
+
+OPCIONES:
+
+archivo            Nos permite eliminar un archivo.
+
+-r directorio      Nos permite eliminar un directorio y todo su contenido.

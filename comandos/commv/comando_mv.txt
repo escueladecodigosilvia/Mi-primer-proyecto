@@ -1,0 +1,13 @@
+COMANDO mv:
+
+Se utiliza para mover y renombrar.
+
+
+OPCIONES:
+
+nombre_actual nombre_nuevo     Nos permite renombrar archivos y directorios.
+
+origen destino                 Nos permite mover de ubicación archivos y 
+                               directorios.
+                               Origen: ruta/nombre_archivo.
+                               Destino: ruta_nueva/nombre_archivo.

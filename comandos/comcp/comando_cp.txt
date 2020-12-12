@@ -1,0 +1,18 @@
+COMANDO cp:
+
+Se utiliza para copiar.
+
+
+OPCIONES:
+
+nombre_actual nombre_nuevo    Nos permite copiar archivos.
+
+origen destino                Nos permite copiar archivos en una ubicación 
+                              diferente.
+                              Origen: ruta/nombre_archivo.
+                              Destino: ruta_nueva/nombre_archivo.
+
+-r origen destino             Nos permite copiar directorios con todo su
+                              contenido en una ubicación diferente.
+                              Origen: ruta/nombre_directorio.
+                              Destino: ruta_nueva/nombre_directorio.

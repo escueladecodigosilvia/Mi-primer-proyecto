@@ -1,0 +1,17 @@
+COMANDO cd:
+
+Se utiliza para cambiar de directorio.
+
+
+OPCIONES:
+
+directorio      Nos permite cambiar a un directorio que se encuentra dentro 
+                del directorio actual.
+
+ruta            Nos permite cambiar a cualquier directorio dentro del sistema
+                de archivos.
+
+..              Nos permite cambiarnos al directorio padre.
+
+cd ~  ó  cd     En cualquier direcctorio donde nos encontremos, nos regresa
+                al directorio perssonal.

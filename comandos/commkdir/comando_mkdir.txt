@@ -1,0 +1,12 @@
+COMANDO mkdir:
+
+Se utiliza para crear directorios.
+
+
+OPCIONES:
+
+directorio_1                 Crea un nuevo directorio en la ubicación actual.
+
+directorio_1 directorio_2    Es posible crear varias carpetas al mismo tiempo
+                             en la ubicación actual, si separamos sus nombres
+                             con espacios.

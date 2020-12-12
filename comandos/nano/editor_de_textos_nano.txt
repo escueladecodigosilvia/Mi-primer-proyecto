@@ -1,0 +1,26 @@
+EDITOR DE TEXTOS nano:
+
+Es un programa para almacenar y manipular información en la computadora.
+
+
+SINTAXIS: nano nombre_del_archivo      Crea el archivo; y si ya existe un
+                                       archivo con el nombre indicado, 
+                                       mostrará su contenido.
+
+
+ATAJOS:
+(El símbolo ^ es equivalente a la tecla Ctrl)
+
+Ctrl + x    Cierra el editor de textos nano y nos regresa a la terminal.
+
+Ctrl + s    Guarda las modificaciones realizadas al archivo.
+
+Ctrl + k    Corta una línea de texto.
+
+Ctrl + u    Pega la línea de texto cortada anteriormente.
+
+Ctrl + \    Reemplaza una cadena de texto por otra cadena de texto.
+
+Ctrl + g    Despliega información sobre nano y los atajos.
+
+

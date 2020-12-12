@@ -1,0 +1,6 @@
+COMANDO pwd:
+
+Se utiliza para Imprimir la ruta del directorio de trabajo.
+
+Imprime la ruta de directorios para llegar desde el directorio root (/)
+hasta el directorio actual (ubicación actual) o de trabajo.
